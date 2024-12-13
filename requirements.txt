@@ -1,4 +1,4 @@
-pyrofork
+pyrofork==2.3.45
 ffmpeg-python
 gunicorn==20.1.0
 psutil
